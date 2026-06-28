@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: flask-app
-        image: aniket967/flask-app:9
+        image: aniket967/flask-app:12
         imagePullPolicy: Always
 
         ports:
